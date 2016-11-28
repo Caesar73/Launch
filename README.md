@@ -1,9 +1,8 @@
 # Launch
 An isomorphic framework by nodejs
 
-## npm install
-##
-##
-##
+### How to use
+```
+$ npm install
 
-
+```
